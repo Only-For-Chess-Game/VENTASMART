@@ -3,14 +3,14 @@ export const homeObjOne = {
     lightText: true,
     lightTopLine: true,
     lightTextDesc: true,
-    topLine: 'View Our Products',
-    headline: 'Shop through our catalog of products',
+    topLine: 'Ver Nuestros Productos',
+    headline: 'Compre a través de nuestro catálogo de productos',
     description:
-      'We provide worldwide shipping to all countries. If there are any issues, just issue a refund and we will process your request',
-    buttonLabel: 'Shop Now',
+      'Ofrecemos envíos a todo el mundo a todos los países. Si hay algún problema, simplemente emita un reembolso y procesaremos su solicitud',
+    buttonLabel: 'Compre Ahora',
     imgStart: '',
     img: require('../../images/svg-1.svg'),
-    alt: 'Credit Card'
+    alt: 'Tarjeta de Crédito'
   };
   
   export const homeObjTwo = {
@@ -18,14 +18,14 @@ export const homeObjOne = {
     lightText: false,
     lightTopLine: false,
     lightTextDesc: false,
-    topLine: '100% Secure',
-    headline: 'Stay protected 24/7 anywhere anytime',
+    topLine: '100% Seguro',
+    headline: 'Manténgase protegido 24/7 en cualquier lugar y en cualquier momento',
     description:
-      'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
-    buttonLabel: 'Learn More',
-    imgStart: 'start',
+      'Lo tenemos cubierto sin importar dónde se encuentre. Más de 140 ubicaciones en todo el mundo para garantizar que tenga acceso en cualquier momento',
+    buttonLabel: 'Más Información',
+    imgStart: 'inicio',
     img: require('../../images/svg-2.svg'),
-    alt: 'Vault'
+    alt: 'Bóveda'
   };
   
   export const homeObjThree = {
@@ -33,11 +33,11 @@ export const homeObjOne = {
     lightText: false,
     lightTextDesc: false,
     topLine: 'Easy Setup',
-    headline: 'Super fast and simple onboarding process',
+    headline: 'Proceso de incorporación súper rápido y sencillo',
     description:
-      "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-    buttonLabel: 'Start Now',
-    imgStart: 'start',
+      "Tenga todo listo y listo en menos de 10 minutos. Todo lo que necesita hacer es agregar su información y listo.",
+    buttonLabel: 'Comience Ahora',
+    imgStart: 'inicio',
     img: require('../../images/svg-1.svg'),
     alt: 'Vault'
   };
@@ -46,12 +46,12 @@ export const homeObjOne = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'DATA ANALYTICS',
-    headline: 'Every transaction is stored on our secure cloud database',
+    topLine: 'ANÁLISIS DE DATOS',
+    headline: 'Cada transacción se almacena en nuestra base de datos segura en la nube',
     description:
-      'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
-    buttonLabel: 'Sign Up Now',
-    imgStart: 'start',
+      'Nunca más tendrás que preocuparte por los recibos guardados. Almacenamos sus datos para que pueda acceder a ellos en cualquier momento.',
+    buttonLabel: 'Regístrate Ahora',
+    imgStart: 'inicio',
     img: require('../../images/svg-1.svg'),
-    alt: 'Vault'
+    alt: 'Bóveda'
   };
